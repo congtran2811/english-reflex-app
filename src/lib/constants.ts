@@ -1,0 +1,13 @@
+export const TURN_DURATION_SECONDS = 10;
+export const TURN_DURATION_OPTIONS = [10, 15, 20, 25, 30] as const;
+export type TurnDurationOption = (typeof TURN_DURATION_OPTIONS)[number];
+export const SESSION_LENGTH = 10;
+export const SPEECH_LANG = 'en-US';
+export const NO_RESPONSE_PLACEHOLDER = '(No response)';
+export const AI_REQUEST_TIMEOUT_MS = 30_000;
+export const DEFAULT_GEMINI_MODEL = 'gemini-3.8-flash';
+export const DEFAULT_GROQ_MODEL = 'llama3-70b-8192';
+export const DEFAULT_OLLAMA_BASE_URL = 'http://127.0.0.1:11434';
+export const DEFAULT_OLLAMA_MODEL = 'qwen2.5:3b';
+export const DEFAULT_DEEPSEEK_BASE_URL = 'https://api.deepseek.com';
+export const DEFAULT_DEEPSEEK_MODEL = 'deepseek-chat';

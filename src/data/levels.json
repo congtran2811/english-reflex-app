@@ -1,0 +1,6 @@
+[
+  { "id": "A1_A2", "label": "A1–A2", "title": "Beginner", "description": "Everyday phrases, simple present & past, daily routines.", "targetSeconds": 6, "tags": ["daily life", "greetings", "basic tenses"] },
+  { "id": "B1", "label": "B1", "title": "Intermediate", "description": "Opinions, plans, experiences, and common phrasal verbs.", "targetSeconds": 7, "tags": ["phrasal verbs", "present perfect", "conditionals"] },
+  { "id": "B2", "label": "B2", "title": "Upper-Intermediate", "description": "Nuanced arguments, passive voice, and idiomatic expressions.", "targetSeconds": 8, "tags": ["idioms", "passive", "reported speech"] },
+  { "id": "C1", "label": "C1", "title": "Advanced", "description": "Complex structures, inversion, and formal/professional register.", "targetSeconds": 9, "tags": ["inversion", "formal register", "nuance"] }
+]
